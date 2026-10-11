@@ -2,6 +2,10 @@
 
 AI Notch turns the notch on your MacBook into something useful. Hover over it (or click it) and it opens into a little panel with your music, your calendar, widgets and a spot to drop files. It can also be an AI assistant that runs on your own computer, so nothing you ask it goes to a big company's servers.
 
+<a href="media/AI-Notch.mp4"><img src="media/demo.gif" alt="AI Notch opening from the notch, showing music, calendar, custom tabs, live settings and the assistant" width="800"></a>
+
+**[Watch the full 1-minute video](media/AI-Notch.mp4)**
+
 This repo is just for downloads. Grab the latest version from the [Releases](../../releases) page.
 
 ## What it does
